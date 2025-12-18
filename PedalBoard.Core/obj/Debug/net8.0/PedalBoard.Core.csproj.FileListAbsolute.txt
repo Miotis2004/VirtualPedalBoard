@@ -1,0 +1,11 @@
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\bin\Debug\net8.0\PedalBoard.Core.deps.json
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\bin\Debug\net8.0\PedalBoard.Core.dll
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\bin\Debug\net8.0\PedalBoard.Core.pdb
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\obj\Debug\net8.0\PedalBoard.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\obj\Debug\net8.0\PedalBoard.Core.AssemblyInfoInputs.cache
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\obj\Debug\net8.0\PedalBoard.Core.AssemblyInfo.cs
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\obj\Debug\net8.0\PedalBoard.Core.csproj.CoreCompileInputs.cache
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\obj\Debug\net8.0\PedalBoard.Core.dll
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\obj\Debug\net8.0\refint\PedalBoard.Core.dll
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\obj\Debug\net8.0\PedalBoard.Core.pdb
+C:\Dev\VPB\VirtualPedalBoard\PedalBoard.Core\obj\Debug\net8.0\ref\PedalBoard.Core.dll
