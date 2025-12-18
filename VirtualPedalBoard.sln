@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedalBoard.ViewModels", "Pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedalBoard.Tests", "PedalBoard.Tests\PedalBoard.Tests.csproj", "{7C91AA71-7295-42C5-AC4C-C4D3ECC51D3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedalBoard.App", "PedalBoard.App\PedalBoard.App.csproj", "{ED609F6B-4714-4453-92ED-245378737277}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{7C91AA71-7295-42C5-AC4C-C4D3ECC51D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C91AA71-7295-42C5-AC4C-C4D3ECC51D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C91AA71-7295-42C5-AC4C-C4D3ECC51D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED609F6B-4714-4453-92ED-245378737277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED609F6B-4714-4453-92ED-245378737277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED609F6B-4714-4453-92ED-245378737277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED609F6B-4714-4453-92ED-245378737277}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
